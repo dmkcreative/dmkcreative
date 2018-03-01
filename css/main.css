@@ -12,7 +12,7 @@ main {grid-template-columns: 1fr 1fr 1fr;}
 article {float:left; width:33%;}
 section {clear: both;}
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 540px) {
   article {width: 100%;} 
 }
 
