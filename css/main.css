@@ -1,5 +1,7 @@
 /* CSS STYLE FOR DMK CREATIVE, LLC */
 
+header, footer, aside, article, main, nav {display:block;}
+
 /* We need to set the widths used on floated items back to auto, and remove the bottom margin as when we have grid we have gaps. */
 @supports (display: grid) {.wrapper > * {width: auto; margin: 0;}}
 */
@@ -10,6 +12,7 @@ h2, h3 {text-align:center;}
 #tagline {font-style:italic; font-size:150%;}
 #intro {font-size:75%; margin:0 20%;}
 .wrapper {max-width: 1080px; margin: 0 20px; display: grid; grid-gap: 10px;}
+header {text-align:center;}
 main {grid-template-columns: 1fr 1fr 1fr;}
 article {float:left; width:33%; text-align:center;}
 section {clear: both;}
