@@ -6,13 +6,13 @@
 *, *:before, *:after {box-sizing: border-box;}
 body {margin: 40px; font-family: 'Open Sans', 'sans-serif'; background-color: #fff; color: #444;}
 h1, p {margin: 0 0 1em 0;}
-h2 {text-align:center;}
-.wrapper {max-width: 940px; margin: 0 20px; display: grid; grid-gap: 10px;}
+h2, h3 {text-align:center;}
+.wrapper {max-width: 1080px; margin: 0 20px; display: grid; grid-gap: 10px;}
 main {grid-template-columns: 1fr 1fr 1fr;}
 article {float:left; width:33%;}
 section {clear: both;}
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 720px) {
   article {width: 100%;} 
 }
 
