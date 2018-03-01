@@ -15,7 +15,8 @@ article {float:left; width:33%; text-align:center;}
 section {clear: both;}
 
 @media screen and (max-width: 720px) {
-  article {width: 100%;} 
+  article {width: 100%;}
+  #intro {font-size:75%; margin:0 0%;}
 }
 
 /* no grid support? */ .wrapper {display: flex; flex-wrap: wrap;}
