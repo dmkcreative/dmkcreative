@@ -19,6 +19,26 @@ section {clear: both;}
 /*div.panel {padding:0; margin:0;}
 div.panel picture img {width:100%;height:auto;}*/
 div.panel.item1 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item2 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item3 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item4 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item5 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item6 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item7 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item8 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item9 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item10 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item11 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item12 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item13 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item14 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item15 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item16 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item17 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item18 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item19 {background-image: url("../imgs/warner_spread1.jpg");}
+div.panel.item20 {background-image: url("../imgs/warner_spread1.jpg");}
+
 
 @media screen and (max-width: 720px) {
   article {width: 100%;}
