@@ -21,7 +21,7 @@ div.panel picture img {width:100%;height:auto;}*/
 div.panel {margin:0; padding:0; background-color:none;}
 div.panel h3 {background-color:#333; text-align:center;}
 
-div.panel.item1 {background-image: url("../imgs/warner_spread1.jpg") center top no-repeat;}
+div.panel.item1 {background-image: url("../imgs/warner_spread1.jpg") center center;}
 div.panel.item2 {background-image: url("../imgs/agropolis_venture_school_web.png");}
 div.panel.item3 {background-image: url("../imgs/b380DScorn_04_10_2011.png");}
 div.panel.item4 {background-image: url("../imgs/b380DSgender_03_13_2011.png");}
