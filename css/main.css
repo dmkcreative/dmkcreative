@@ -16,7 +16,7 @@ header {text-align:center;}
 main {grid-template-columns: 1fr 1fr 1fr;}
 article {float:left; width:33%; text-align:center;}
 section {clear: both;}
-.panel img {width:100%;height:auto;}
+.panel picture img {width:100%;height:auto;}
 
 @media screen and (max-width: 720px) {
   article {width: 100%;}
