@@ -16,8 +16,9 @@ header {text-align:center;}
 main {grid-template-columns: 1fr 1fr 1fr;}
 article {float:left; width:33%; text-align:center;}
 section {clear: both;}
-div.panel {padding:0; margin:0;}
-div.panel picture img {width:100%;height:auto;}
+/*div.panel {padding:0; margin:0;}
+div.panel picture img {width:100%;height:auto;}*/
+div.panel.1 {background: #ccc url(../imgs/warner_spread1.jpg);}
 
 @media screen and (max-width: 720px) {
   article {width: 100%;}
