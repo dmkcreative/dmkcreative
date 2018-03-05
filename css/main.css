@@ -19,7 +19,7 @@ section {clear: both;}
 /*div.panel {padding:0; margin:0;}
 div.panel picture img {width:100%;height:auto;}*/
 div.panel {margin:0; padding:0; background-color:none;}
-div.panel h3 {background-color:#333; padding:1.5rem 0; text-align:center;}
+div.panel h3 {background-color:#333; padding:100% 0; text-align:center;}
 
 div.panel.item1 {background-image: url("../imgs/warner_spread1.jpg");}
 div.panel.item2 {background-image: url("../imgs/agropolis_venture_school_web.png");}
