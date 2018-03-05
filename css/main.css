@@ -18,7 +18,8 @@ article {float:left; width:33%; text-align:center;}
 section {clear: both;}
 /*div.panel {padding:0; margin:0;}
 div.panel picture img {width:100%;height:auto;}*/
-div.panel h3 {background-color:#333; padding:0 1.2rem;}
+div.panel {margin:0; padding:0;}
+div.panel h3 {background-color:#333; padding:0 1.2rem; text-align:center;}
 
 div.panel.item1 {background-image: url("../imgs/warner_spread1.jpg");}
 div.panel.item2 {background-image: url("../imgs/agropolis_venture_school_web.png");}
